@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.0.6
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: premkumaralaguraj@gmail.com
+author_name: prem-sh
+has_binder: true
+has_settings: true
+kind: frontend
+labextension_name: sample_extension
+project_short_description: ponpori extension
+python_name: sample_extension
+repository: git@github.com:prem-sh/jupyter-extension-sample.git
+test: true
+
